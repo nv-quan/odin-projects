@@ -1,5 +1,5 @@
 require 'sinatra'
-require 'sinatra/reloader' unless development?
+require 'sinatra/reloader'
 require './caesar_cipher.rb'
 
 get '/' do 
