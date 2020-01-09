@@ -1,0 +1,21 @@
+--- !ruby/object:Hangman
+word: diminutive
+unique_chars: !ruby/object:Set
+  hash:
+    d: true
+    i: true
+    m: true
+    n: true
+    u: true
+    t: true
+    v: true
+    e: true
+guessed: !ruby/object:Set
+  hash:
+    a: true
+    d: true
+    i: true
+    u: true
+    g: true
+    p: true
+    m: true
